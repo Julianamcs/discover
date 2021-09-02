@@ -2,6 +2,12 @@
 <p align="center">
    <img alt="" src=".github/capa.png" width="100%"/>
  </p>
+ <br>
+<p align="center !important">
+<h1> Discover </h1>
+</p>
+<br>
+ 
  
 <br>
 
@@ -11,11 +17,8 @@
   <a href="#-layout">Layout</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#-layout">Layout</a>
 </p>
-<br>
-<p align="center">
-<h2><b> Discover </b></h2>
-</p>
-<br>
+
+
 
 ## 🚀 Tecnologias
 
