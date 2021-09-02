@@ -4,12 +4,6 @@
  </p>
  
  </br>
- 
-<p align="center" fonte-size="2rem">
-   <a>Discover</a>
-</p>
-
-</br>
 
  <p align="center">
   <a href="#-tecnologias">Tecnologias</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
@@ -49,9 +43,10 @@ Entre em contato comigo: [![Linkedin JulianaMCS](https://img.shields.io/badge/-J
 
 ---
  <h6>:rocket:&nbsp;<b><i>©Todos os Diretos Reservados pela ROCKTSEAT® &nbsp;:desktop_computer:&nbsp;https://rocketseat.com.br/</i></b></h6>
-
-<p align="right">
+</br>
+<!--p align-text="right">
 <h6>Emoji README: https://github.com/ikatyang/emoji-cheat-sheet</h6>
-</p>
-
+</p-->
+ <h6> &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
+ &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Emoji README: https://github.com/ikatyang/emoji-cheat-sheet</h6>
 
