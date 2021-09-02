@@ -13,7 +13,7 @@
 </p>
 <br>
 <p align="center">
-<2> Discover
+<h2><b> Discover </b></h2>
 </p>
 <br>
 
