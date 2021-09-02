@@ -12,8 +12,9 @@
   <a href="#-layout">Layout</a>
 </p>
 <br>
-# Discover
-
+<p align="center">
+<2> Discover
+</p>
 <br>
 
 ## 🚀 Tecnologias
