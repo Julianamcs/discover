@@ -5,8 +5,8 @@
  
  </br>
  
-<p align="center">
-   <a fonte-size="2rem">Discover</a>
+<p align="center" fonte-size="2rem">
+   <a>Discover</a>
 </p>
 
 </br>
